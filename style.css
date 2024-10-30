@@ -1,0 +1,68 @@
+.toolkit
+{
+	float: left;
+	padding-bottom: 30px;
+	padding-right: 10px;
+}
+.asset
+{
+	float: left;
+	border: 1px solid #cccccc;
+}
+.name_tiny
+{
+	float: left;
+	font: 7px verdana, sans-serif;	
+	text-align: center;
+	width: 100%;
+}
+.name_small
+{
+	float: left;
+	font: 9px verdana, sans-serif;	
+	text-align: center;
+	width: 100%;
+}
+.name_medium
+{
+	float: left;
+	font: 9px verdana, sans-serif;	
+	text-align: center;
+	width: 100%;
+}
+.name_large
+{
+	float: left;
+	font: 12px verdana, sans-serif;	
+	text-align: center;
+	width: 100%;
+	
+}
+.asset_container_tiny
+{
+	float: left;
+	width: 52px;
+	margin: 5px;
+}
+.asset_container_small
+{
+	float: left;
+	width: 82px;
+	margin: 5px;
+}
+.asset_container_medium
+{
+	float: left;
+	width: 107px;
+	margin: 5px;
+}
+.asset_container_large
+{
+	float: left;
+	width: 232px;
+	margin: 5px;
+}
+.toolkit_container
+{
+	
+}
